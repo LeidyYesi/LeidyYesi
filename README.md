@@ -1,8 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Activo Contac 
-- 
 -📚 Actualmente estoy estudiando en Digital 
--
 -✨Dato Inreresante: Practico tenis y  Futbol
 <!--
 -->
