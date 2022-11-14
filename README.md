@@ -1,7 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Activo Contac Center
--📚 Actualmente estoy estudiando en Digital House
+- 🔭 I’m currently working on Activo Contac 
+-->
+-📚 Actualmente estoy estudiando en Digital 
+-->
 -✨Dato Inreresante: Practico tenis y  Futbol
+
 -->
 <!--
 **LeidyYesi/LeidyYesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
