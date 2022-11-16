@@ -2,8 +2,8 @@
 <!--
 **LeidyYesi/LeidyYesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile./
 -->
-- 🔭 I’m currently working on Activo Contac 
-- 🌱 I’m currently learning  en Digital House
+- 🔭 I’m currently working on Activo Contac  Center
+- 🌱 I’m currently learning  en Digital House  "Programacioon Web Full Stack
 - ⚡ Fun fact: Practico tenis y Futbol
 <!--
 
